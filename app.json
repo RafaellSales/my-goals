@@ -23,7 +23,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#0E0F11"
       },
-      "package": "com.rafadevmo.mygoals"
+      "package": "com.rafadevmo.mygoals",
+      "versionCode": 3
     },
     "web": {
       "bundler": "metro",
